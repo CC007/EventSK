@@ -1,0 +1,3 @@
+#CHANGE THIS TO THE EVENTS THAT YOU WANT TO USE!
+events:
+    - "com.github.cc007.headsinventory.events.HeadGivenEvent"

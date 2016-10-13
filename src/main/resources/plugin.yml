@@ -1,0 +1,7 @@
+name: EventSK
+version: 1.0.0
+main: com.github.cc007.eventsk.EventSK
+author: Rik Schaaf aka CC007 (http://coolcat007.nl/)
+description: >
+             Skript addon that allows you to listen to Bukkit events
+depend: [Skript]
